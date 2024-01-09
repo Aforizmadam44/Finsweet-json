@@ -1,0 +1,372 @@
+{
+    "solution": [
+      {
+        "id": 1,
+        "icon": "./Icon1.svg",
+        "title": "Yüksək təhlükəsizlik imkanı",
+        "description": "Sizi online platformlardakı etibarsız sistemlərdən qoruyuruq."
+      },
+      {
+        "id": 2,
+        "icon": "./Icon2.svg",
+        "title": "Premium keyfiyyətli performans",
+        "description": "Modern və yüksək keyfiyyətli güc imkanı yaradırıq."
+      },
+      {
+        "id": 3,
+        "icon": "./Icon3.svg",
+        "title": "Tam zamanlı müştəri dəstəyi - 24/7",
+        "description": "İstədiyiniz zaman bizimlə əlaqə saxlaya bilərsiniz."
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "icon": "./featuresIcon1.svg",
+        "title": "Təkmil 256 bit şifrələmə",
+        "description": "Sizi online platformlardakı təhlükələrdən qoruyuruq."
+      },
+      {
+        "id": 2,
+        "icon": "./featuresIcon2.svg",
+        "title": "Sadə əməkdaşlıq alətləri",
+        "description": "Modern və yüksək keyfiyyətli güc imkanı yaradırıq."
+      },
+      {
+        "id": 3,
+        "icon": "./featuresIcon3.svg",
+        "title": "Fərdi AI xüsusiyyətləri",
+        "description": "İstədiyiniz zaman bizimlə əlaqə saxlaya bilərsiniz."
+      }
+    ],
+        "result": [
+          {
+            "id": 1,
+            "icon": "./iconMan1.png",
+            "name": "Ron Wood",
+            "description": "Artıq 10 ildən çoxdur ki şirkətimizə rəhbərlik edən Ron Wood Avropa ölkələrində yüksək təcrübə qazanmış və sonradan şirkətimizə dəvət edilmişdir. Fəaliyyətləri nəticəsində son 4 illik dilimdə şirkət inkişafı 30% artmışdır.",
+            "job": "CEO"
+          },
+          {
+            "id": 2,
+            "icon": "./iconMan2.png",
+            "name": "Mark Mason",
+            "description": "Bazar araşdırması və optimal strategiyanın seçilməsində professional addımlara imza atan digər əməkdaşımız isə Mark Mansondur. İdarəetmə və sistemli planlaşdırma sahəsində də əvəzolunmaz xidmətləri olmuşdur.",
+            "job": "Marketinq meneceri"
+          },
+          {
+            "id": 3,
+            "icon": "./iconMan3.png",
+            "name": "Sam Preston",
+            "description": "Baş texnologiya mütəxəssisi vəzifəsində uzun müddətdir şirkətimizdə xidmət göstərən Sam Preston isə həm texnologiya, həm insan, həm də digər infrastruktlarının vəhdətini nizamlaya bilmə məharətinə sahibdir.",
+            "job": "CTO"
+          }
+        ],"salesTracking": [
+          {
+            "id": 1,
+            "icon": "./discoverIcon1.svg",
+            "title": "Satış İzləmə",
+            "description": "Fürsət, Təklif, Sifariş, Malların Qeydi, Faktura mərhələlərinin bütün detaylarını hər yerdən, istənilən vaxt və istənilən cihazınızdan həyata keçirməyə imkan verir.",
+            "longDescription": "Sifariş İdarəetmə Proqramı Nələr edə bilərəm ? Müştərilərdən aldığınız sifarişləri və tədarükçülərinizə verdiyiniz sifarişləri ətraflı şəkildə izləyə bilərsiniz. Sifarişlərinizi tərtib edərkən, səhm qiymətlərinə, müştəriyə verilən son qiymətə, səhm miqdar məlumatlarına bir kliklə əldə edərək ən doğru qiymət və miqdar ilə sifarişlərinizi yarada bilərsiniz. Sifarişlərinizi hazırlayarkən, səhmlərin qiymətlərini nəzərdən keçirdə bilərsiniz və maya dəyərindən aşağı sifariş verdiyiniz zaman avtomatik xəbərdarlıqlar ala bilərsiniz. Veb saytınızı, mağazanızı Evobulut-a inteqrasiya edərək, bütün sifarişlərinizi vahid ekrandan idarə edərək sifariş müddətində müştərilərinizə məlumat verə bilərsiniz.Sifarişlərinizi tərtib edərkən, səhm qiymətlərinə, müştəriyə verilən son qiymətə, səhm miqdar məlumatlarına bir kliklə əldə edərək ən doğru qiymət və miqdar ilə sifarişlərinizi yarada bilərsiniz. Sifarişlərinizi hazırlayarkən, səhmlərin qiymətlərini nəzərdən keçirdə bilərsiniz və maya dəyərindən aşağı sifariş verdiyiniz zaman avtomatik xəbərdarlıqlar ala bilərsiniz. Veb saytınızı, mağazanızı Evobulut-a inteqrasiya edərək, bütün sifarişlərinizi vahid ekrandan idarə edərək sifariş müddətində müştərilərinizə məlumat verə bilərsiniz. Öz süzgəclərinizi (Yeni Sifarişlər, Bu Ayda Başa Çatacaq Sifarişlər və s.) yaradaraq, sifarişlərinizə tez və asanlıqla daxil ola və sifariş proseslərinizi sürətləndirə bilərsiniz. Öz süzgəclərinizi (Yeni Sifarişlər, Bu Ayda Başa Çatacaq Sifarişlər və s.) yaradaraq, sifarişlərinizə tez və asanlıqla daxil ola və sifariş proseslərinizi sürətləndirə bilərsiniz.",
+            "longIcon":"../longIcon1.png"
+          },
+          {
+            "id": 2,
+            "icon": "./discoverIcon2.svg",
+            "title": "Layihənin idarə olunması",
+            "description": "Layihə idarəetməsinin formalaşdırılması və təkmilləşdirilməsi -sistemli inkişafa keçid və müəssisə və təşkilatların fəaliyyətini təmin etmək",
+            "longDescription": "Layihə idarə olunması, layihənin məqsədlərinə çatmağı hədəfləyən ardıcıl mərhələlərdən ibarət olan bir prosesdir . Məqsəd yenilikçi və unikal məhsul və ya xidmətlər yaratmaq, yəni hədəflərin, vaxtın, xərclərin və digər xüsusiyyətlərin optimal birləşməsi ilə layihənin bütün tələblərinə cavab verməkdir. Bu idarəetmə, müəyyən mərhələlərdə həyata keçirilən, qarşıya qoyulmuş məqsədlərə ardıcıl nail olmaqdan ibarət olan və birlikdə layihənin həyat dövrünü təşkil edən struktur məntiqinə tabedir. Müəssisənin mövcud quruluşunun düzgün təhlili, layihənin idarəedilməsi prosesində əldə edilməsi lazım olan vəzifələr, müəyyən hədəflərə çatmaq üçün mərhələlərin ardıcıl planlaşdırılması və tapşırıqların vaxtında yerinə yetirilməsi konkret bir layihənin həyat dövrünün uğurla qurulması və ümumiyyətlə layihə rəhbərliyi üçün qarşılanması lazım gəlir. Şirkətimiz, iş fikri yarandığı gündən bəri layihəni müşayiət edir və investisiya mərhələsindən asılı olaraq layihəni müxtəlif dərəcələrlə ətraflı hesablamağa hazırdır. Eyni zamanda, investisiya təhlilinin və / və ya biznes planın inkişaf etdiricisi olaraq sizinlə bir layihəyə getməyə və onun icrasında iştirak etmək üçün hazır bir idarəetmə şirkəti olaraq iştirak etməyə hazırıq ki, bu da nəzərə alsaq, bugünkü müvafiq xidmətlər bazarı üçün bənzərsiz bir birləşmədir. Bizim vəziyyətimizdə, başlanğıcdan etibarən, bütün layihə boyunca sizi müşayiət edəcək və nəticəsi üçün məsuliyyəti sizinlə bölüşməyə hazır olan təcrübəli mütəxəssislərdən ibarət yaxşı bir komanda əldə edirsiniz.",
+            "longIcon":"../longIcon2.png"
+          },
+          {
+            "id": 3,
+            "icon": "./discoverIcon3.svg",
+            "title": "Fəaliyyət Hesabatı",
+            "description": "Mühasibat (maliyyə) hesabatları - mühasibat uçotu məlumatları əsasında hazırlanan müəssisənin maliyyə vəziyyəti, onun fəaliyyətinin maliyyə nəticələri və onun maliyyə vəziyyətinin dəyişməsi barədə vahid məlumat sistemidir.",
+            "longDescription": "Müasir dünyada informasiyanın rolu dönmədən artmaqdadır. Sahibkarlıq fəaliyyətində mənfəətin əldə edilməsində və kapitalın artımında öz əksini tapan işğüzar müvəffəqiyyət iqtisadi informasiyaların keyfiyyətindən asılıdır. İnvestisiya qərarlarının qəbulu, müştərilərin, malsatanların və diğər işğüzar partnyorların seçilməsi üçün məlumatların tamlığı və etibarlılığı mühüm şərtdir. Mühasibat hesabatı dedikdə, istifadəçi üçün qəbul ediləsi görünüşdə təqdim olunan informasiyalar başa düşülür. Məlum olduğu kimi, hesabat adətən kağız üzərində tərtib edilərək, kağız daşıyıcısı formasında təqdim edilir. Lakin müasir dövrdə hesabat həm elektron formada, həm də digər formalarda tərtib oluna bilər. Mahiyyətinə görə hesabat, təşkilatın və bazarın digər subyektlərinin əlaqələndirici həlqəsi hesab olunur. Eyni zamanda müxtəlif dövrlərdə tərtib edilən hesabatla qanunvericiliklə təsbit olunan hesabatları digər mühasibat hesabatları ilə eyniləşdirmək olmaz. Dövri və qanunvericiliklə təsbit olunan hesabatlar, hər şeydən əvvəl, dövlətin ehtiyaclarını ödəyir. Bununla yanaşı, qanunvericilikdə nəzərdə tutulmayan, lakin daxili ehtiyaclara yönəldilən bəzi informasiyaları da hesabat formasında qruplaşdırmaq lazım gəlir. Belə hesabatlardan adətən idarəetmə məqsədləri üçün istifadə olunur.",
+            "longIcon":"../longIcon3.webp"
+          }
+        ]
+,        
+        "service": [
+          {
+            "id": 1,
+            "icon": "./serviceİcon1.svg",
+            "title": "Təhlükəsizlik və məxfilik",
+            "description": "Bizimlə birlikdə bütün hüquqlarınız qorunub, tam məxfi qalacaq."
+     
+          },
+          {
+            "id": 2,
+            "icon": "./serviceİcon2.svg",
+            "title": "Daxili süni zəka",
+            "description": "Intellekt sahəsindəki texnologiyalardan istifadə şəraiti yaradılacaq."
+          },
+          {
+            "id": 3,
+            "icon": "./serviceİcon3.svg",
+            "title": "Başqaları ilə əməkdaşlıq",
+            "description": "Öndə gedən əməkdaşlar ilə daim təmasda olunacaq."
+      
+          },
+          {
+            "id": 4,
+            "icon": "./serviceİcon4.svg",
+            "title": "Real vaxt sinxronizasiyası",
+            "description": "Hərəkətlər eyni zamanlı və tam vaxtında həyata keçiriləcək."
+          },
+          {
+            "id": 5,
+            "icon": "./serviceİcon5.svg",
+            "title": "Süni zəka ilə proqramlama",
+            "description": "Maksimum inkişaf üçün süni zəka avantajlarından istifadə olunacaq."
+          },
+          {
+            "id": 6,
+            "icon": "./serviceİcon6.svg",
+            "title": "Asan qeydlərin təşkili",
+            "description": "Bu üsulla perspektif addımlar üçün qeydlər aparılacaq."
+          }
+        ],
+        "planCards": [
+          {
+            "id": 1,
+            "icon": "./plancards1.png",
+            "title": "Sabit paket",
+            "description": "Başlanğıc Planı",
+            "listIcon":"./listicon.svg",
+            "projects":"Məhdud Layihələr üçün",
+            "support":"Daimi Dəstək Biznesi",
+            "time":"10 gün pulsuz",
+            "timeYear":"1 ay pulsuz",
+            "strotage":"3GB Yaddaş",
+            "ads":"Reklamların önizləməsi",
+            "about":"Başlanğıc paketidir, az sayda əməliyyatları özündə birləşdirir.",
+            "price":"Ödənişsiz",
+            "priceYear":"Ödənişsiz",
+            "when":"Sadəcə bu ay üçün",
+           "button":"<Button/>"
+          },
+          {
+            "id": 2,
+            "icon": "./plancards2.png",
+            "title": "Platinium",
+            "description": "Ən yaxşı nəticələr üçün",
+            "listIcon":"./listicon.svg",
+            "projects":"Bütün lahiyələr üçün",
+            "support":"Platinium Dəstək Biznesi",
+            "time":"2 ay pulsuz",
+            "timeYear":"4 ay pulsuz",
+            "strotage":"20GB Yaddaş",
+            "ads":"Bütün xidmətlətə tam sahiblik",
+            "about":"Platinium paketdir, istənilən sayda əməliyyat nəticələri üçündür.",
+            "price":"$59",
+            "priceYear":"708$",
+            "when":"Məhdud müddət üçün",
+           "button":"</Button>"
+          },
+          {
+            "id":3 ,
+            "icon": "./plancards3.png",
+            "title": "Standart paket",
+            "description": "Ən çox seçilən",
+            "listIcon":"./listicon.svg",
+            "projects":"60% lahiyələr üçün",
+            "support":"Standart Dəstək Biznesi",
+            "time":"1 ay pulsuz",
+            "timeYear":"3 ay pulsuz",
+            "strotage":"10GB Yaddaş",
+            "ads":"Bütün xidmətlətə yarı sahiblik",
+            "about":"Standart paketdir, əməliyyatların bir çoxuna sahiblənmək imkanı yaradır.",
+            "price":"$39",
+            "priceYear":"468$",
+            "when":"Sadəcə bu il üçün",
+           "button":"<Button/>"
+      
+          }
+         
+        ],   "corporate": [
+          {
+            "id": 1,
+            "icon": "./corporate1.png",
+            "title": "Alternativlər arasında ən yaxşı",
+            "description": "Biz rəqiblərimizdən bir çox xüsusiyyətlərlə seçilirik."
+     
+          },
+          {
+            "id": 2,
+            "icon": "./corporate2.png",
+            "title": "Həqiqilik",
+            "description": "Etibarlılıq və dürüstlük ilə şəffaf prinsip güdürük."
+          },
+          {
+            "id": 3,
+            "icon": "./corporate3.png",
+            "title": "E-poçt dəstəyi            ",
+            "description": "Email ilə bizimlə əlaqə saxlaya bilərsiniz."
+      
+          },
+          {
+            "id": 4,
+            "icon": "./corporate4.png",
+            "title": "Endirimlər mövcudluğu",
+            "description": "Xidmətlərimizdə daima endirimli kompaniyalar təşkil edirik."
+          },
+          {
+            "id": 5,
+            "icon": "./corporate5.png",
+            "title": "Güclü marketinq",
+            "description": "Bazar iqtisadiyyatına uyğun satış taktikası yaradırıq."
+          },
+          {
+            "id": 6,
+            "icon": "./corporate6.png",
+            "title": "İnventarın idarə edilməsi",
+            "description": "Əlinizdəki imkanları maksimum dərəcədə istifadə edirik."
+          }
+        ],   "team": [
+          {
+            "id": 1,
+            "icon": "./team.png",
+            "title": "Blake Matthews",
+            "description": "CEO",
+            "age":"43",
+            "experience":"10 il",
+            "company":"Bm Mmc"
+     
+          },
+          {
+            "id": 2,
+            "icon": "./team1.png",
+            "title": "Jack Newman",
+            "description": "CTO",
+            "age":"35",
+            "experience":"14 il",
+            "company":"Jt İt"
+          },
+          {
+            "id": 3,
+            "icon": "./team2.png",
+            "title": "Sarinia Martins",
+            "description": "FeD",
+            "age":"29",
+            "experience":"3 il",
+            "company":"Sm Rt"
+      
+          },
+          {
+            "id": 4,
+            "icon": "./team3.png",
+            "title": "Spencer Wright",
+            "description": "Menecer",  
+            "age":"34",
+            "experience":"7 il",
+            "company":"Wr Asc"
+          },
+          {
+            "id": 5,
+            "icon": "./team4.png",
+            "title": "Caroline Ming",
+            "description": "SMM",
+            "age":"42",
+            "experience":"6 il",
+            "company":"Cg Dp"
+          },
+          {
+            "id": 6,
+            "icon": "./team5.png",
+            "title": "Anna Mills",
+            "description": "Dizayner",
+            "age":"34",
+            "experience":"14 il",
+            "company":"Al Mt"
+          }
+        ],   "ourPost": [
+          {
+            "id": 1,
+            "icon": "../ourPost1.png",
+            "iconDetails":"../alldetails-1.png",
+            "title": "7 Mükəmməl CX-i inkişaf etdirən avtomatlaşdırmadan istifadə halları",
+            "description": "Cx qaydalarında 7 əsas prinsipi özündə birləşdirən bu üsulla avtomatlaşdırılan sistemə keçid edilmişdir və daha rahat planlaşdırmaq mümkün olmuşdur.",
+            "author":"Leila Hatami 10 May 2021",
+            "longDescription":"1. Davamlı əsaslandırma (Continued business justification)\n\nLayihənin aktuallığı, yaradılacaq faydalar layihə müddətində əsaslandırılmalıdır;\n2. Təcrübədən öyrənmə (Learn from experience)\n\nƏvvəlki layihələrdə uğurlu təcrübələri, eləcə də səhvləri nəzərdən keçirməli, gələcək layihələrin icrası zamanı nəzərə alınmalıdır;\n3. Vəzifə və səlahiyyətlərin müəyyənləşdirilməsi (Defined roles and responsibilities)\n\nLayihə idarəetmə komandasının hər bir üzvü vəzifə və səlahiyyətləri aydın müəyyən olunmalı və hər bir üzv bu rol üçün müvafiq bilik və bacarıqlara sahib olmalıdır;\n4. Mərhələli idarəetmə (Manage by stages)\n\nHər mərhələnin sonunda layihənin icra statusu nəzərdən keçirilməli, davam etdirilməsi və ya yekunlaşdırılması barədə qərar verilməlidir;\n5. Məhsullara fokuslaşma (Focus on products)\n\nYaradılacaq məhsulların əvvəlcədən dəqiq müəyyənləşdirilmiş keyfiyyət meyarları və təsdiqetmə proseduru olmalıdır;\n6. İstisnalarla idarəetmə (Manage by exception)\n\nLayihənin 6 elementi üzrə tolerantlqılar müəyyən edilməli, müəyyən olunmuş səviyyə keçilərsə məsələ daha yuxarı idarəetmə strukturuna ötürülməlidir;\n7. Layihə mühitinə uyğunlaşdırma (Tailor to suit project environment) Prince2 metodologiyasının tətbiqi vaxtı prinsiplərin, idarəetmə elementlərinin və proseslərin mühüm əhəmiyyətli olan hissələrini layihənin vacibliyi, riskləri və həcmini nəzərə alımaqla tətbiq edilməlidir."
+
+     
+          },
+          {
+            "id":2,
+            "icon":"../ourPost2.png",
+            "iconDetails":"../alldetails-2.png",
+            "title":"Şifrələnmiş etimadnamələri ilə Rails tətbiq sirlərini idarə etmək",
+            "description":"Müxtəlif şifrələmə metodları ilə yaradılan etimadnamələrdə əvvəlcədən müəyyənləşdirilmiş tətbiq metodları vasitəsiylə əlçatmaz anlayışlar yox edilmişdir.",
+            "author":"Maleek Ali 18 Iyun 2023",
+            "longDescription":"HTTP kuki (ing. HTTP cookie) (həmçinin veb kuki, internet kuki, brauzer kuki olaraqda adlanır) — vebsaytı ziyarət etdiyiniz zaman kompüterinizdə və ya mobil cihazınızda saxlanılan kiçik ölçülü mətn faylıdır.\n\nKukilər internetdə faydalı və bəzən vacib funksiyaları yerinə yetirir. Onlar veb-serverlərə statuslu məlumatı (məsələn, onlayn mağazada alış-veriş səbətinə əlavə edilmiş əşyalar) istifadəçinin cihazında saxlamağa və ya istifadəçinin baxış fəaliyyətini izləməyə (o cümlədən, xüsusi düymələrə basmaq, daxil olmaq və ya keçmişdə hansı səhifələrin ziyarət edildiyini qeyd etmək).[1] Onlar həmçinin istifadəçinin adlar, ünvanlar, parollar və ödəniş kartı nömrələri kimi forma sahələrinə əvvəllər daxil etdiyi məlumatları sonrakı istifadə avtomatik doldurmaq üçün istifadə edilə bilər.\n\nMündəricat\n1 Növləri\n1.1 İdentifikasiya kukiləri\n1.2 İzləmə kukiləri\n2 İstinadlar\nNövləri İdentifikasiya kukiləri İdentifikasiya kukiləri adətən istifadəçinin daxil olduğunu və hansı hesabla daxil olduğunu təsdiqləmək üçün veb serverlər tərəfindən istifadə olunur. Kuki olmadan istifadəçilər daxil olmaq istədikləri həssas məlumatları ehtiva edən hər bir səhifəyə daxil olaraq özlərini autentifikasiya etməlidirlər. İdentifikasiya kukisinin təhlükəsizliyi ümumiyyətlə emitent saytının və istifadəçinin veb brauzerinin təhlükəsizliyindən və kuki məlumatlarının şifrələnib-şifrələnməməsindən asılıdır. Təhlükəsizlik zəiflikləri kuki məlumatlarının təcavüzkar tərəfindən oxunmasına, istifadəçi məlumatlarına daxil olmaq üçün istifadə edilməsinə və ya kukinin aid olduğu vebsayta (istifadəçinin etimadnaməsi ilə) daxil olmaq üçün istifadə edilməsinə imkan verə bilər.[2]\n\nİzləmə kukiləri İzləmə kukiləri və xüsusən də üçüncü tərəfin izləmə kukiləri, adətən, şəxslərin axtarış tarixçələrinin uzunmüddətli qeydlərini tərtib etmək üçündür."},
+          {
+            "id": 3,
+            "icon": "../ourPost3.png",
+            "iconDetails":"../alldetails-3.png",
+            "title": "Hesaba əsaslanan marketinq: ABM uğuru üçün məlumatlara əsaslanan seçim",
+            "description": "Bu metodda isə marketinq əməliyyatları uğura gedən yolda seçilmiş və daha avantajlı istifadə edilmişdir.",
+            "author":"Zəhra Həsənova 12 Dekabr 2022",
+            "longDescription": "ABM çətin ki, yeni bir anlayışdır. Əslində, bəziləri ABM-nin marketinq olduğu müddətdə mövcud olduğunu iddia edirlər. Hər bir hesabı bazar hesab edən, satış və marketinq arasında ümumi birliyə imkan verən bir strategiyadır.\n\nBu gün, istifadəsinin artması səbəbiylə marketoloqlar tərəfindən daha asanlıqla istifadə olunur bir-birinə bağlı məlumatlar və möhkəmdir analytics marketinq daxilində. Bunun üzərinə məlumatlar daha çox olur real vaxt və miqyaslı Service-as-a-Service (DaaS) platformaları vasitəsilə. Bu anlayışlar marketoloqlara ən gəlirli hesablarını daha yaxşı başa düşməyə və müəyyənləşdirməyə kömək edir, bu da öz növbəsində satış huni vasitəsilə bu hesabları cəlb edərkən mənbələrə üstünlük verməyə imkan verir.\n\nABM, hətta Dun & Bradstreet’də öz iş inkişaf strategiyamızın mərkəzi halına gəldi. Verilərdən istifadə edirik, analytics və yeni fürsətlərə üstünlük vermək üçün satışlarla əməkdaşlıq.\n\nKifayət qədər asandır, elədir? O qədər də sürətli deyil. Səthdə sadə görünsə də, ABM, komandanızın bütün üzvlərindən ağıllı icra və giriş tələb edən mürəkkəb bir proses ola bilər.\n\nBudur işiniz üçün qazanan bir ABM strategiyası inkişaf etdirməyə kömək edəcək beş addım.\n\nAddım 1: Çapraz Funksional Komandalar inkişaf etdirin\nAB & AMB-ni Dun & Bradstreet-də genişləndirmədən əvvəl, ümumi marka modernizasiyamızın bir hissəsi olaraq yenilənmiş bir məqsəd hissi və yenilənmiş dəyərlər dəstini inkişaf etdirməyi əhatə edən mədəniyyətimizə, bazara çıxma strategiyamıza və mesajlaşmaya diqqət etdik.\n\nŞəxslər ətrafında bunu həll etdiyimiz ağrı nöqtələri ilə əlaqələndirən və ABM strategiyamızın təməlini qoyan bir mesajlaşma sistemi inkişaf etdirdik. Rəqəmsal maşınınız nə qədər yaxşı olsa da, fərqli bir şey söyləməyiniz və onu dəstəkləyən bir mədəniyyətiniz yoxdursa, yəqin ki, qarışıqlığı aşmayacaqsınız.\n\nOradan marketinq funksiyalarımızın hər birinin üzvlərindən ibarət çapraz funksional “Pələng Komandaları” hazırladıq. Şəxslər tərəfindən təşkil edilən bu komandalar, ənənəvi silosları keçə bilirlər, hərtərəfli düşünməyi və çevik hərəkətləri təşviq edərək layihələrin yaradıcılarımızın qüdrəti ilə həll olunmasını təmin edirlər, analytics, hər bir şəxs tərəfindən təcrübəni idarə etmək üçün texnologiya, rabitə və rəqəmsal qruplar.\n\nAddım 2: Əsas Hesabları müəyyənləşdirin\nHəm satış, həm də marketinq hesab seçimi meyarları və nəticədə hədəf müəssisələriniz barədə razılığa gələnə qədər təşəbbüsünüz irəliləməməlidir. Hansı xüsusiyyətlər və ya xüsusiyyətlər sizin üçün (və patronunuz üçün) yüksək dəyərli bir hesab göstərir? Hər şey şirkətinizə, prioritetlərinizə və hansı məlumatlardan və nə olduğuna bağlıdır analytics modellər keçmişdə proqnozlaşdırıcı dəyər nümayiş etdirdilər.\n\nDun & Bradstreet-də eyni imkana sahib olmaq şanslıyıq məlumatlar və analytics müştərilərimizdir."
+          },
+          {
+            "id": 4,
+            "icon": "../ourPost4.png",
+            "iconDetails":"../alldetails-4.png",
+            "title": "Ümumi Marjinallığı necə hesablamaq olar?",
+            "description": "Bunun üçün məhsulun dəyəri ilə qazanc indeksi arasındakı fərq tapılır və il ərzində dəyişkənliyə bölünür.",
+            "author": "Kamil Quluyev",
+            "date": "21 Noyabr 2023",
+            "longDescription": "Deməli, bizim hər biri bizə məlum olan iki göstəricimiz var. Birincisi qiymətdir. Bu, məhsulun son maya dəyəridir, onun nə qədər satılması lazımdır və ya hazırda satılır. Marja bir layihənin və ya biznesin bir çox digər xüsusiyyətlərini müəyyən etməyə imkan verən çox vacib bir parametrdir, məsələn:\n\nBütövlükdə layihənin və ya biznesin gəlirliliyi.\nBu təşkilatın gəlirliliyi nə qədər dəyişkəndir.\nHansı müştərilər daha çox pul gətirir.\nHansı layihələr daha çox resurs tələb edir və bu investisiyalar öz bəhrəsini verirmi?\nÜmumi gəlir hara gedir?\nİşçilərin maaşı və layihələrin marjinallığı necə əlaqələndirilir?\nHər xidmət nə qədər pul gətirir.\nBu nəticələrdən asılı olaraq idarəetmə qərarları qəbul edilir. Məsələn, xərcləri azaltmaq, mal və ya xidmətlərin dəyərini artırmaq və ya resurs tələb edən, lakin hədəf mənfəət gətirməyən layihələrdən imtina etmək zərurəti həyata keçirilir.\n\nİşarələmə və marja müəyyən etmək üçün nə etmək lazımdır?"
+        },
+        {
+          "id": 5,
+          "icon": "../ourPost5.png",
+          "iconDetails":"../alldetails-5.png",
+          "title": "Debitor borcları prosesinin avtomatlaşdırılmasının beş əsas faydası",
+          "description": "Yaranmış borc titullarının avtomatlaşdırılması əsasında müəsisənin faydalılıq əmsalı daha da artırılır.",
+          "author": "Dzeko Malkovich 10 Sentyabr 2020",
+          "longDescription": "Borc öhdəliyi ödəmənin məcburi meyar olması lazım olan razılaşma əsasında yaranır. Bunda əlavə, müqavilə borcların ödənilməli olduğu müddətləri müəyyənləşdirir. Beləliklə, debitor və kreditor – eyni tənzimləmə mexanizmin iki tərəfidir. Həm debitor, həm də kreditor qismində bir neçə şəxs çıxış edə bilər. Eyni zamanda, borclular öhdəliklərin şərtlərini dəyişdirə və ya onlardan imtina edə bilməzlər.\n\nƏgər debitor öhdəliklərini yerinə yetirirsə, kreditor bu icranı qəbul etməyə məcburdur. Əgər borclu müqavilə borclarını könüllü olaraq ödəmirsə, kreditor bununla bağlı məhkəməyə müraciət etmək hüququna malikdir. Kreditor borcalanın razılığı olmadan borcu üçüncü tərəfə verə bilər. Borclu, öz növbəsində, müqavilə və ya qanunvericilikdə onun üzərinə qoyulmuş öhdəlikləri yerinə yetirməli olduğunu göstərmədiyi təqdirdə bunu edə bilər.\n\nDebitor borcları debet hesablarında əks olunur.\n\nDebitor borcları necə nəzərə alınır\n\nQanunvericiliyə uyğun olaraq debitor borcları təsdiq edilməlidir. Debitor borclarının ödənilmə müddəti başa çatdıqda, onlar ya rezerv (ehtiyat), ya da maliyyə nəticələri hesabına silinirlər. Qeyd edək ki, debitor borclarının müddəti 3, və debitor qismində xarici şəxs olduğu halda 4 il təşkil edir. Ödənilməsi mümkün olmayan debitor borclar müvafiq sənədləşmə aparılandan sonra silinirlər."
+        },
+        {
+          "id": 6,
+          "icon": "../ourPost6.png",
+          "iconDetails":"../alldetails-6.png",
+          "title": "Məlumata əsaslanan qiymət qərarlarını necə qəbul etmək olar",
+          "description": "Məlumat mərkəzli qərarvermə prinsipləri sayəsində qiymət tənzimləməsi daha ədalətli tətbiq olunur.",
+          "author": "Elman Tağıyev 3 Aprel 2022",
+          "longDescription": "Firmanın qiymət siyasəti firmanın ümumi strategiyası çərçivəsində formalaşır və qiymət strategiyası və qiymətqoyma taktikasını ehtiva edir. Qiymət strategiyası təklif olunan məhsulun bazarda yerləşdirilməsini nəzərdə tutur. Hədəf seqmentinin müəyyən edilməsi və strategiyanın qurulması üçün müxtəlif yanaşmalar mövcuddur (Ansoff matrisi, BCG matrisi, Porter matrisi). Həmçinin qiymət strategiyası çərçivəsində qiymətin müəyyən edilməsi (təyin edilməsi) üçün istifadə olunan üsullar, eləcə də qiymət ayrı-seçkiliyi formaları seçilir[1].\n\nGələcəkdə strategiyanın həyata keçirilməsi çərçivəsində alıcılar üçün qiymət endirimləri və qeyri-qiymət stimulları sistemləri daxil olmaqla, taktiki tədbirlər (satışı stimullaşdırmaq üçün) hazırlanır.\n\nQiymət siyasətinin həyata keçirilməsi zamanı şirkət rəhbərliyi təxirəsalınmaz tədbirləri tənzimləməli və strategiyanın dəyişmə vaxtına nəzarət etməlidir. Qiymətlər kifayət qədər mənfəət səviyyəsini təmin etmək üçün rəqabətdə fəal şəkildə istifadə olunur. Malların və xidmətlərin qiymətlərinin müəyyən edilməsi hər bir müəssisənin ən vacib problemlərindən biridir, çünki optimal qiymət onun maliyyə rifahını təmin edə bilər. Həyata keçirilən qiymət siyasəti əsasən müəssisənin təklif etdiyi mal və ya xidmətlərin növündən asılıdır. O, əmtəə və ya xidmətlərin istehsalının planlaşdırılması, istehlakçıların tələblərinin müəyyən edilməsi, satışın təşviqi ilə sıx əlaqədə formalaşır. Qiymət elə müəyyən edilməlidir ki, o, bir tərəfdən alıcıların tələbat və tələblərini ödəsin, digər tərəfdən isə müəssisənin qarşıya qoyduğu məqsədlərə nail olmağa kömək etsin ki, bu da məhsulun alınmasını təmin etsin. kifayət qədər maliyyə resursları. Qiymət siyasəti, mövcud bazar şəraitindən asılı olaraq, müəssisənin planlaşdırdığı mənfəətin miqdarını əldə etməyə və digər strateji və əməliyyat vəzifələrini həll etməyə imkan verəcək mal və xidmətlər üçün belə qiymətlərin müəyyən edilməsinə yönəldilmişdir.\n\nÜmumi qiymət siyasəti çərçivəsində müəssisənin hədəf bazarındakı mövqeyinə, metodlarına və marketinq strukturuna uyğun qərarlar qəbul edilir. Ümumi qiymət siyasəti müəssisənin uzun və qısamüddətli məqsədlərinə nail olmaq üçün əlaqələndirilmiş hərəkətlərin həyata keçirilməsini təmin edir. Eyni zamanda, onun rəhbərliyi fərdi qərarları inteqrasiya olunmuş bir sistemə birləşdirərək ümumi qiymət siyasətini müəyyənləşdirir: şirkətin nomenklaturası daxilində məhsul qiymətlərinin əlaqəsi, xüsusi endirimlərdən istifadə tezliyi və qiymət dəyişiklikləri, qiymətlərin rəqiblərin qiymətləri ilə nisbəti, yeni məhsulların qiymətlərinin müəyyən edilməsi metodunun seçilməsi.\n\nQiymət siyasətinin müəyyən edilir."}
+,
+{
+  "id": 7,
+  "icon": "../ourPost7.png",
+  "iconDetails":"../alldetails-7.png",
+  "title": "Təkrarlanan fakturaları necə daha səmərəli etmək olar",
+  "description": "Fakturalama əməliyyatları içərisində təkrarlanmanın qarşısını almaq və yaxud daha səmərəli hala gətirmək üçün sistemli planlaşdırmağa keçid edilmişdir.",
+  "author": "Salim Mansoory 14 Yanvar 2021",
+  "longDescription": "Tipik fakturada aşağıdakılar daxil ola bilər:[1][2]\n\nFaktura sözü (və ya vergi fakturası);\nUnikal istinad nömrəsi (hesabdakı yazışmalar üçün);\nFaktura tarixi;\nKredit şərtləri;\nMümkün olduqda vergi məbləğləri (GST və ya ƏDV kimi);\nSatıcının adı və əlaqə məlumatları;\nSatıcı şirkətinin vergi və ya qeydiyyat məlumatları, əgər varsa, Avstraliya müəssisələri üçün AŞN və ya AB müəssisələri üçün ƏDV nömrəsi;\nAlıcının adı və əlaqə məlumatları;\nMəhsul və ya xidmətin göndərildiyi və ya çatdırıldığı tarix;\nSatınalma sifariş nömrəsi (və ya alıcı tərəfindən fakturada görünməsi üçün tələb olunan oxşar izləmə nömrələri);\nMəhsul (lar)-ın təsviri;\nMümkün olduqda məhsul (lar) vahid qiyməti;\nValyuta ilə göstərilən ümumi məbləğ (simvol və ya qısaltma);\nÖdəniş şərtləri (bir və ya daha çox məqbul ödəniş üsulu, gözlənilən ödənişin son tarixi və gecikmiş ödənişlər üçün ödənişlərin təfərrüatları, yəni həmin tarixdən sonra edilən ödənişlər daxil olmaqla);\nPul köçürməsinin borcları ödəmək üçün üstünlük verildiyi ölkələrdə çap olunmuş hesab-fakturada kreditorun bank hesabı nömrəsi və ümumiyyətlə ödəyəni müəyyənləşdirən əməliyyatla birlikdə göndəriləcək bir istinad kodu olacaqdır.\n\nABŞ Müdafiə Logistika Agentliyi hesablarda işəgötürənin şəxsiyyət nömrəsini tələb edir. [3]\n\nAvropa Birliyi rəsmi hesab-fakturalar üçün ƏDV ödəyicisi kimi qeydiyyatdan keçmiş bütün müəssisələrin müştərilərinə təqdim etmələri üçün ƏDV (Əlavə Dəyər Vergisi) identifikasiya nömrəsi tələb edir. İngiltərədə rəqəm 'bu ƏDV-nin fakturası deyil' sözlərini ehtiva etdikdə fakturalarda görünə bilməz. Belə bir hesab-fakturaya pro-faktura deyilir və ƏDV ödəyicisi kimi qeydiyyatdan keçmiş müştərilər üçün tam hesab-fakturanın əvəzedicisi deyil. [4]\n\nKanadada, vergi güzəştinə layiq görülmək üçün qeydiyyatdan keçmiş təchizatçı tərəfindən istehsal olunan 30 ABŞ dollarından yuxarı göndərmələr üçün SATIŞ VERGİSİ qeyd nömrəsi verilməlidir [5].\n\nBeynəlxalq ticarətdə istifadə olunan fakturalar üçün tövsiyələr, eyni zamanda, malların lojistik aspektinin daha ətraflı təsvirini özündə cəmləşdirən və bu səbəbdən beynəlxalq logistika və gömrük prosedurları üçün əlverişli ola biləcək BMTAİK Ticarət Komitəsi tərəfindən verilir."
+},
+{
+  "id": 8,
+  "icon": "../ourPost8.png",
+  "iconDetails":"../alldetails-8.png",
+
+  "title": "Daha çox dönüşüm üçün ödənişdən imtinanı necə azaltmaq olar",
+  "description": "Ödənişlərin minimuma endirilməsi və dəqiqləşdirilib lazımi yerlərə yönləndirilməsi üçün dönüşüm metodundan istifadə edilməlidir.",
+  "author": "John Nescow, 1 Avqust 2022",
+  "longDescription": "Təqvim ili ərzində ilk dəfə POS-terminalların quraşdırılmamasına və ya onu təqdim etməkdən imtina halına yol verdikdə sahibkarlıq subyektinə 1.000 manat, ikinci dəfə yol verdikdə 3.000 manat, üç dəfə və daha artıq yol verdikdə 6.000 manat maliyyə sanksiyası tətbiq olunacaq.\n\nVergi məsələləri üzrə ekspert Anar Bayramov mövzunu şərh edərkən bildirib: \"Vergi ödəyicisini maraqlandıran məqam ondan ibarətdir ki, ondan asılı olmayan səbəbdən POS-terminal işləmədikdə, maliyyə sanksiyasının tətbiq olunması necə həyata keçiriləcək. Misal üçün, internet xidmətinin olmaması, POS-terminala xidmət göstərən bankın əməliyyat sistemində problemlərin mövcud olması və digər obyektiv səbəbdən ödənişi nağdsız qəbul etmək mümkün olmadıqda, vergi ödəyicisinə maliyyə sankiyası hansı əsasla tətbiq olunacaq? Təklifim ondan ibarətdir ki, nəzarət-kassa aparatının işləmədiyi halları tənzimləyən qaydalar POS-terminalara da şamil olunsun\".\n\nVergilər Nazirliyinin Vergi siyasəti idarəsinin rəisi Samirə Musayeva məsələyə belə münasibət bildirib: \"Sahibkarlıq subyektlərinin qanunsuz əməlləri ilə mübarizə aparmaq, həmçinin nağdsız hesablaşmaları stimullaşdırmaq üçün ötən il qanunvericiliyə edilən dəyişikliklərdən sonra hələ də pərakəndə ticarət və iaşə obyektlərində POS-terminalların quraşdırılmaması və ya quraşdırıldığı halda istehlakçıya ondan istifadə üçün şərait yaradılmaması hallarına rast gəlirik. Həmin hallara görə sahibkarlıq subyektlərinə maliyyə sanksiyalarının tətbiq eidlməsi nəzərdə tutulub. Bu növ maliyyə sanksiyaları nağd hesablaşmalar zamanı nəzarət-kassa aparatlarının quraşdırılmaması və ya çekin təqdim edilməməsinə görə mövcud olan sanksiyalara bərabər tutulur\".\n\nXatırladaq ki, Nazirlər Kabinetinin 04.10.2012-ci il tarixli 219 saylı qərarına əsasən, POS-terminallar quraşdırılmalı olan obyektlərin siyahısı müəyyən edilib:\n\n- dövriyyəsindən və ərazisindən asılı olmayaraq Əlavə Dəyər Vergisi (ƏDV) ödəyicilərinin bütün təsərrüfat subyektləri (obyektləri) (vergi ödəyicisinin ƏDV məqsədləri üçün qeydiyyata alındığı tarixdən);\n- dövriyyəsindən və ərazisindən asılı olmayaraq avtomobil və mebel satışı üzrə ixtisaslaşmış müəssisələr, idman və sağlamlıq kompleksləri, səhiyyə obyektləri, istirahət və əyləncə obyektləri, mehmanxanalar, şadlıq evləri, yanacaqdoldurma məntəqələri, hava, su, dəmiryol və avtomobil nəqliyyatı vasitələri ilə sərnişindaşımada biletlərin satışını həyata keçirən satış məntəqələri və turizm şirkətləri (təsərrüfat subyektinin (obyektinin) qeydiyyata alındığı tarixdən);\n- rüb üzrə orta aylıq dövriyyəsi 2.000 (iki min) manatdan artıq olan vergi ödəyicilərinin bütün təsərrüfat subyektləri (obyektləri) (ərazilər üzrə POS-terminalların mərhələlərlə tətbiq edilməsi cədvəlinə uyğun olaraq)"},
+  {
+    "id": 9,
+    "icon": "../ourPost9.png",
+    "iconDetails":"../alldetails-9.png",
+    "title": "Daha effektiv irəliləmə müddəti üçün 10 Strategiya qaydası",
+    "description": "Müştəri bazasının yaradılması və gəlir əmsalının yüksəldilməsi prinsiplərini özündə birləşdirən 10 əsas qayda.",
+    "author": "İsmail Huseynov 26 Mart 2024",
+    "longDescription": "1. Gəlirlərinizi yenidən investisiya edin. Birja bazarından pul qazanarkən onu xərcləmək istəyə bilərsiniz. Ancaq bunun əvəzinə, əldə etdiyiniz gəlirləri yenidən investisiya edin. Uorren Baffett bunu hələ gənc yaşlarında öyrənib. Orta məktəbdə o, bir dostu ilə birlikdə bərbər dükanı üçün bir pinbol aparatı almışdı. Daha sonra həmin aparat sayəsində qazandıqları pulla müxtəlif mağazalar üçün 8 əlavə maşın da alırlar. Bu iki dost həmin aparatları satdıqdan sonra Baffet əldə etdiyi pulla kiçik bir biznes qurdu. Artıq 26 yaşı olanda onun 1,4 milyon dollarlıq sərvəti var idi. Gördüyünüz kimi kiçik miqdarlar belə sərvətə çevrilə bilər.\n\n2. Fərqli olmağa həvəsli olun. Digər insanların etdiklərinə və ya dediklərinə əsasən qərar qəbul etməyin. Uorren Baffet 1956-cı ildə pulu idarə etməyə başladıqda yaxınlarından və dostların 100 min dollar pul yığdı. O, öz işini Wall Street-də yox, Omaha şəhərində qurmuşdu. Baffet ailəsinə və dostlarına öz işi barədə heç bir məlumat verməmişdi. Onlar onun uğursuz olacağını düşünürdülər. Ancaq nəticə etibarilə, ilk şirkətini satdıqda Baffet 100 milyon dollar qazanmışdı. Baffetin fikrincə, əksər insanların investisiya ilə bağlı fəaliyyətləri demək olar ki, eynidir. Ancaq əslində kütləni izləmək lazım deyil.\n\n3. Çevik qərarlar qəbul edin və vaxtınızı boş yerə xərcləməyin. Qərar qəbul etmək üçün lazım olan bütün məlumatları əvvəlcədən toplayın və əgər həmin məsələ ilə bağlı öyrənə biləcəyiniz başqa bir məlumat yoxdursa, tezliklə qərar qəbul edin. Uorren Baffet çevik qərar qəbul etmə və qısa müddətdə fəaliyyətə başlamaqla bağlı xüsusiyyəti ilə fəxr edir. O, lazımsız / uzun müddətli qərar qəbul etmə prosesinin bir çox fürsətlərin itirilməsi demək olduğunu düşünür.\n\nÜmumiyyətlə maliyyə planlaşdırması barəsində daima savadınızı artırmaq sizə yanlız uğur gətirə bilər. Əgər hələ də “Babilin ən varlı adamı” kitabını oxumamısınızsa www.readit.az saytından qısa məzmununu oxuya bilərsiniz.\n\n4. Hər hansı bir işə başlamazdan əvvəl müqaviləni aydınlaşdırın. Hər hansı bir fəaliyyətə başlamazdan əvvəl müzakirə etmək imkanınız daha çoxdur. Buna görə, qarşı tərəfin istədiklərini onlara təqdim etməlisiniz. Baffet bunu da gənc yaşlarında öyrənib. Baffetin babası Ernest onu və dostunu qar uçqunun altında qalan dükanı qardan təmizləmək üçün işlətmişdi. Ancaq 5 saatlıq yorucu və dondurucu işin sonunda onlara cəmi 90 sent pul vermişdi. Bu sövdələşmədən heyrətə gələn Baffet anladı ki, istənilən razılaşmanın şərtlərini əvvəlcədən aydın şəkildə qeyd etmək lazımdır. Bu, qarşınızdakı şəxsin yad biri və ya ailə üzvünüz olmasından asılı deyil.\n\n5. Kiçik xərclərinizi izləyin. Uorren Baffett adətən ən kiçik xərclərə belə diqqət yetirən şirkətlərə investisiya edir. Hər bir xərcə nəzərən ehtiyatlı olmaq, sizin mənfəətinizə"
+  }  
+        ]
+      }
+      
+  
+  
